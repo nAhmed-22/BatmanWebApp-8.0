@@ -52,4 +52,4 @@ jobs:
           app-name: 'culcloud'
           slot-name: 'slot1'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3FECB202D02445DAD80E58D2FC9815F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_442E2BBFFCB24043A4C14197B93389D4 }}
